@@ -52,12 +52,14 @@ main {
 }
 
 .imagem_guilda {
-    text-align: start;
+    width: 350px;
+    margin-left: 50px;
 }
 
-.nocomments {
-    width: 600px;
-    border-radius: 30px;
+
+iframe {
+    border-radius: 20px;
+    margin-left: 50px;
 }
 
 /* Rodapé */
